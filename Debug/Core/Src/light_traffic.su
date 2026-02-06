@@ -1,0 +1,7 @@
+light_traffic.c:35:6:led_off	4	static
+light_traffic.c:39:6:NS_green_WE_red	4	static
+light_traffic.c:44:6:NS_yellow_WE_red	4	static
+light_traffic.c:49:6:NS_red_WE_green	4	static
+light_traffic.c:54:6:NS_red_WE_yellow	4	static
+light_traffic.c:60:6:shiftByte	24	static
+light_traffic.c:73:6:update4Digits	24	static

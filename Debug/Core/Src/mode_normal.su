@@ -1,0 +1,2 @@
+mode_normal.c:13:6:Light_init	8	static
+mode_normal.c:22:6:FSM_Mode_Normal_run	16	static
